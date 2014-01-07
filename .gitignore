@@ -6,11 +6,10 @@
 *.toc
 *.url
 *.synctex.gz
-*.pier.pdf
-*.pier.tex
-*.pier.html
-/PFTE.pdf
-/Zinc/Zinc.tex
+*.pdf
+*.tex
+*.md
+*.html
 /Pharo.changes
 /Pharo.image
 /pharo-vm
@@ -18,8 +17,6 @@
 /pharo-ui
 /vm.sh
 /pharo
-auto/
-files/
-/crash.dmp
 .DS_Store
 /package-cache
+!book.md
